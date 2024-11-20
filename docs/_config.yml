@@ -1,0 +1,29 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+#relative_permalinks: true
+
+# Setup
+title:            Computational Design and Fabrication
+tagline:          'CDF 2023'
+description:      'SEMINAR'
+baseurl: "/cdf_2023/" # the subpath of your site, e.g. /blog
+url: "https://le-ar-n.github.io/cdf_2023/" # the base hostname & protocol for your site, e.g. http://example.com
+
+paginate:         5
+
+# Custom vars
+#version:          2.1.0
+
+github:
+  repo:           https://github.com/augmentedfabricationlab/cdf_2023
+
+plugins:
+  - jekyll-feed
+
+collections:
+  sessions:
+    output: true
