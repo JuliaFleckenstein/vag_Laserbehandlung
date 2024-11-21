@@ -1,1 +1,1 @@
-[Patienteninformation](https://github.com/JuliaFleckenstein/vag_laserbehandlung/blob/master/docs/pdfs/Patienteninformationpdf)
+[Patienteninformation](https://github.com/JuliaFleckenstein/vaginale_laserbehandlung/blob/master/docs/pdfs/Patienteninformationpdf)
