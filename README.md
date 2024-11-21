@@ -1,5 +1,5 @@
 # vaginale Laserbehandlung
 
-[Patienteninformation](https://github.com/JuliaFleckenstein/vaginale_Laserbehandlung/blob/main/docs/pdfs/Patienteninformation.pdf)
+[website](https://juliafleckenstein.github.io/vaginale_Laserbehandlung/))
 
 
