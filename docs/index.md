@@ -1,4 +1,4 @@
 
 # [Patienteninformation](https://github.com/JuliaFleckenstein/vaginale_Laserbehandlung/blob/main/docs/pdfs/Patienteninformation.pdf){:download}
 
-rev01
+<a href="docs/pdfs/patienteninformation.pdf" download>
